@@ -1,0 +1,17 @@
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\bin\Debug\King Project1.exe.config
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\bin\Debug\King Project1.exe
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\bin\Debug\King Project1.pdb
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\bin\Debug\King Project1.exe.CodeAnalysisLog.xml
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\bin\Debug\King Project1.exe.lastcodeanalysissucceeded
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\obj\Debug\King Project1.exe
+C:\Users\Whitney\Documents\Visual Studio 2012\Projects\King Project1Sol\King Project1\obj\Debug\King Project1.pdb
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\bin\Debug\King Project1.exe.config
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\obj\Debug\King Project1.exe
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\obj\Debug\King Project1.pdb
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\bin\Debug\King Project1.exe.manifest
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\bin\Debug\King Project1.application
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\bin\Debug\King Project1.exe
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\bin\Debug\King Project1.pdb
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\obj\Debug\King Project1.csprojResolveAssemblyReference.cache
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\obj\Debug\King Project1.exe.manifest
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Project 1\King Project1Sol\King Project1\obj\Debug\King Project1.application

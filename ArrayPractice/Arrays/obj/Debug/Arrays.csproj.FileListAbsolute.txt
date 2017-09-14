@@ -1,0 +1,6 @@
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Chapter 6\ArrayPractice\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Chapter 6\ArrayPractice\Arrays\bin\Debug\Arrays.exe
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Chapter 6\ArrayPractice\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Chapter 6\ArrayPractice\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Chapter 6\ArrayPractice\Arrays\obj\Debug\Arrays.exe
+C:\Users\Whitney\SkyDrive\My Documents\Programming\Chapter 6\ArrayPractice\Arrays\obj\Debug\Arrays.pdb
